@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shiva/Desktop/IITJ/MLOps/DS%20Salaries/mlruns/935352079372631703/e1c712e426b8415184dccf89f47e06ea/artifacts
+end_time: 1720970338912
+entry_point_name: ''
+experiment_id: '935352079372631703'
+lifecycle_stage: active
+run_id: e1c712e426b8415184dccf89f47e06ea
+run_name: burly-roo-810
+run_uuid: e1c712e426b8415184dccf89f47e06ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720970322186
+status: 3
+tags: []
+user_id: shiva
