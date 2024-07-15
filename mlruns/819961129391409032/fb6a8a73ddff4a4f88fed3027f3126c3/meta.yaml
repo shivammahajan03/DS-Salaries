@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shiva/Desktop/IITJ/MLOps/DS%20Salaries/mlruns/819961129391409032/fb6a8a73ddff4a4f88fed3027f3126c3/artifacts
+end_time: 1721055088961
+entry_point_name: ''
+experiment_id: '819961129391409032'
+lifecycle_stage: active
+run_id: fb6a8a73ddff4a4f88fed3027f3126c3
+run_name: Decision Tree
+run_uuid: fb6a8a73ddff4a4f88fed3027f3126c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721055086078
+status: 3
+tags: []
+user_id: shiva

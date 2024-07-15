@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shiva/Desktop/IITJ/MLOps/DS%20Salaries/mlruns/819961129391409032/a6a996566eac4830bd6facb77e37f8e1/artifacts
+end_time: 1721055106865
+entry_point_name: ''
+experiment_id: '819961129391409032'
+lifecycle_stage: active
+run_id: a6a996566eac4830bd6facb77e37f8e1
+run_name: Overall Experiment
+run_uuid: a6a996566eac4830bd6facb77e37f8e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721055073805
+status: 3
+tags: []
+user_id: shiva

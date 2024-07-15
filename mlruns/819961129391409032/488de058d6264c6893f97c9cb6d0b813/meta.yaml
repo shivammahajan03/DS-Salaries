@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shiva/Desktop/IITJ/MLOps/DS%20Salaries/mlruns/819961129391409032/488de058d6264c6893f97c9cb6d0b813/artifacts
+end_time: 1721055080387
+entry_point_name: ''
+experiment_id: '819961129391409032'
+lifecycle_stage: active
+run_id: 488de058d6264c6893f97c9cb6d0b813
+run_name: Ridge
+run_uuid: 488de058d6264c6893f97c9cb6d0b813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721055073852
+status: 3
+tags: []
+user_id: shiva

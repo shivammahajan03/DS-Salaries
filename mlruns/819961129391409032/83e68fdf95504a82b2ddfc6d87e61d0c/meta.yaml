@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shiva/Desktop/IITJ/MLOps/DS%20Salaries/mlruns/819961129391409032/83e68fdf95504a82b2ddfc6d87e61d0c/artifacts
+end_time: 1721055092316
+entry_point_name: ''
+experiment_id: '819961129391409032'
+lifecycle_stage: active
+run_id: 83e68fdf95504a82b2ddfc6d87e61d0c
+run_name: Random Forest
+run_uuid: 83e68fdf95504a82b2ddfc6d87e61d0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721055088966
+status: 3
+tags: []
+user_id: shiva
